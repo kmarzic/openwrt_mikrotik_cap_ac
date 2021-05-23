@@ -1,4 +1,4 @@
-[#](#) openwrt_mikrotik_cap_ac
+# openwrt_mikrotik_cap_ac
 
 Build based on:
 https://github.com/rusitschka/openwrt-mikrotik-hap-ac2
