@@ -1,11 +1,6 @@
 # openwrt_mikrotik_cap_ac
 
-Build based on:
-https://github.com/rusitschka/openwrt-mikrotik-hap-ac2
+Build based on imagebuilder:
+- https://downloads.openwrt.org/snapshots/targets/ipq40xx/mikrotik/
+- https://downloads.openwrt.org/snapshots/targets/ipq40xx/mikrotik/openwrt-imagebuilder-ipq40xx-mikrotik.Linux-x86_64.tar.xz
 
-Pull Request: ipq40xx: add MikroTik cAP ac support #4055:
-https://github.com/openwrt/openwrt/pull/4055
-
-Mikrotik cAP ac patchset:
-- https://github.com/alaraun/openwrt/pull/1/
-- https://github.com/john-tho/openwrt/pull/2
